@@ -8,7 +8,8 @@ This project can be installed either by downloading the file from the Github rep
 
 ## Files
 ### main
-This is the main file that runs the project and sends the request from three methods taken from the email, sms and whatsapp module. The file can be run automatically if the Developer uses PyCharm or IDE that is specifically built for Python, or the alternative method of python {file_name} such as: python main.py
+This is the main file that runs the project and sends the request from three methods taken from the email, sms and whatsapp module. The file can be run automatically if the Developer uses PyCharm or IDE that is specifically built for Python.
+    python main.py
 
 ### config
 This is the module that holds the configuration information of the Api key, Base url, Mobile number, Recipient and sender email. The sender email is from the demo account so this can be tweaked or replace with the Infobip account in order to make request or send email. Replacing the email variable with the demo account, and also replacing the api key and base url. 
