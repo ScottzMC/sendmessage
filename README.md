@@ -9,7 +9,7 @@ This project can be installed either by downloading the file from the Github rep
 ## Files
 ### main
 This is the main file that runs the project and sends the request from three methods taken from the email, sms and whatsapp module. The file can be run automatically if the Developer uses PyCharm or IDE that is specifically built for Python.
-### Running 
+### Running the file
     python main.py
 
 ### config
